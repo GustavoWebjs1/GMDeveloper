@@ -626,7 +626,7 @@ header {
 .landin-page p {
     font-size: 1rem;
     line-height: 1.6;
-    margin-bottom: 2rem;
+    margin-bottom: 5rem;
 }
 
 .landin-page a {
@@ -639,7 +639,7 @@ header {
 
 
 .projetos > .Analise {
-    background-color: greenyellow;
+    background-color: burlywood;
     border-radius: 16px;
     width: 100%;
     max-width: 400px;
@@ -824,7 +824,7 @@ footer{
     color: white;
     font-size: 28px;
     cursor: pointer;
-    margin-left: 120px;
+    margin-left: 140px;
   }
 
   /* Esconde os links inicialmente */
